@@ -11,8 +11,8 @@
   <a href="https://github.com/ganesh76">
     <img src="https://komarev.com/ghpvc/?username=ganesh76&style=for-the-badge&color=brightgreen" alt="Profile Views">
   </a>
-   <a href="https://www.npmjs.com/package/ganeshg76">
-    <img src="https://img.shields.io/badge/CLI-npx_ganeshg76-red?style=for-the-badge&logo=npm&logoColor=white" alt="CLI Card">
+   <a href="https://www.npmjs.com/package/ganeshg">
+    <img src="https://img.shields.io/badge/CLI-npx_ganeshg-red?style=for-the-badge&logo=npm&logoColor=white" alt="CLI Card">
   </a>
   
 </div>
@@ -39,7 +39,7 @@ const ganesh = {
     cloud: ["Azure", "Docker", "K8s", "Helm Charts"],
   },
   funFact:
-    "To view my digital business card, open your terminal and type: 'npx ganeshg76' ✨",
+    "To view my digital business card, open your terminal and type: 'npx ganeshg' ✨",
 };
 ```
 
