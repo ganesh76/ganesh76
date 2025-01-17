@@ -39,7 +39,7 @@ const ganesh = {
     cloud: ["Azure", "Docker", "K8s", "Helm Charts"],
   },
   funFact:
-    "To view my digital business card, open your terminal and type: 'npx lohitkolluri' ✨",
+    "To view my digital business card, open your terminal and type: 'npx ganeshg76' ✨",
 };
 ```
 
