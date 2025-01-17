@@ -64,12 +64,12 @@ const ganesh = {
   <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=ganesh76&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
-<h2 align="left">
+<!-- <h2 align="left">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
   Achievements
 </h2>
 
-<div align="left">
+ <div align="left">
   
 [![@ganesh76's Holopin badges](https://holopin.me/ganesh76)](https://holopin.io/@ganesh76)
-</div>
+</div> --!>
