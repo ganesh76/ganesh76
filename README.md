@@ -11,6 +11,9 @@
   <a href="https://github.com/ganesh76">
     <img src="https://komarev.com/ghpvc/?username=ganesh76&style=for-the-badge&color=brightgreen" alt="Profile Views">
   </a>
+   <a href="https://www.npmjs.com/package/ganeshg76">
+    <img src="https://img.shields.io/badge/CLI-npx_lohitkolluri-red?style=for-the-badge&logo=npm&logoColor=white" alt="CLI Card">
+  </a>
   
 </div>
 
