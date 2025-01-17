@@ -53,7 +53,7 @@ const ganesh = {
   <img src="https://skillicons.dev/icons?i=react,next,typescript" />
    <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart" />
   <img src="https://skillicons.dev/icons?i=python,fastapi,graphql,postgresql,mysql" />
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,linux,ai" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,nodejs,npm,linux,ai" />
  
 </div>
 
