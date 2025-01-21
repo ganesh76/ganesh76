@@ -24,7 +24,6 @@
 
 ```js
 const ganesh = {
-  education: "BTech CSE @ JNTU University, Hyderabad",
   interest: [
     "DevOps",
     "Full Stack Web and Mobile Development",
