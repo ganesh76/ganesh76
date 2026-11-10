@@ -13,11 +13,11 @@ Currently, I'm a **Staff Software Engineer at Cohere Health**, working on applic
 - **Software Architecture:** System design, distributed systems, microservices, API design
 - **Backend Engineering:** Java, Spring Boot, Python, FastAPI
 - **Frontend Engineering:** React, Next.js, TypeScript
-- **AI Engineering:** LLM applications, RAG, LangChain, LangGraph, AI agents, vector databases
+- **AI & Agentic Engineering:** LLM applications, RAG, AI agents, agentic orchestration, multi-agent workflows
 - **Cloud & DevOps:** Azure, AWS, GCP, Docker, Kubernetes, Helm, CI/CD
 - **Data & Messaging:** PostgreSQL, MySQL, Redis, Kafka
 
-### 🛠️ Technologies
+### 🛠️ Technologies, Skills & Tools
 
 <div align="center">
 
@@ -26,6 +26,8 @@ Currently, I'm a **Staff Software Engineer at Cohere Health**, working on applic
 <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,postgres,mysql,redis,git,github,githubactions" />
 
 </div>
+
+**AI & Agentic Tooling:** LangChain · LangGraph · Amazon Bedrock AgentCore Gateway · Agentic orchestration · RAG · LLM applications
 
 ### 🌱 Currently Exploring
 
