@@ -2,7 +2,7 @@
 
 ### Staff Software Engineer · Full-Stack Engineering · Cloud & Generative AI
 
-I'm a software engineer with **10+ years of experience** building scalable applications and cloud-native systems across healthcare, fintech, and e-commerce.
+I'm a software engineer with **11+ years of experience** building scalable applications and cloud-native systems across healthcare, fintech, and e-commerce.
 
 Currently, I'm a **Staff Software Engineer at Cohere Health**, working on application architecture and AI-powered healthcare solutions. I enjoy turning complex problems into reliable, maintainable software and exploring practical ways to bring Generative AI into production systems.
 
