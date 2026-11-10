@@ -36,20 +36,24 @@ Currently, I'm a **Staff Software Engineer at Cohere Health**, working on applic
 
 ### 🤝 Connect
 
-<p>
+<div align="center">
+
   <a href="https://www.linkedin.com/in/gganeshlink/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://ganesh-g.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
+  <!-- Profile views badge temporarily disabled
   <a href="https://github.com/ganesh76">
-    <img src="https://komarev.com/ghpvc/?username=ganesh76&style=for-the-badge&color=brightgreen" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=ganesh76&style=for-the-badge&color=brightgreen" alt="Profile Views">
   </a>
+  -->
   <a href="https://www.npmjs.com/package/ganeshg">
-    <img src="https://img.shields.io/badge/CLI-npx_ganeshg-red?style=for-the-badge&logo=npm&logoColor=white" alt="CLI business card">
+    <img src="https://img.shields.io/badge/CLI-npx_ganeshg-red?style=for-the-badge&logo=npm&logoColor=white" alt="CLI Card">
   </a>
-</p>
+
+</div>
 
 💡 **Fun fact:** You can view my digital business card from your terminal with `npx ganeshg`.
 
