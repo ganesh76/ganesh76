@@ -29,12 +29,14 @@ Currently, I'm a **Staff Software Engineer at Cohere Health**, working on applic
 
 **AI & Agentic Tooling:** LangChain · LangGraph · Amazon Bedrock AgentCore Gateway · Agentic orchestration · RAG · LLM applications
 
+<!--
 ### 🌱 Currently Exploring
 
 - Production-ready AI agents and agentic workflows
 - Advanced RAG architectures and LLM application patterns
 - Scalable cloud-native systems and distributed architectures
 - Engineering practices for reliable, maintainable software
+-->
 
 ### 🤝 Connect
 
